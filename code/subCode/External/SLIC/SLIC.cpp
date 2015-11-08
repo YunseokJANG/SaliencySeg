@@ -43,7 +43,7 @@ public:
 	//======================================================================
 	//mean rgb in each superpixel
 	//=======================================================================
-	void SLIC::DoMeanSup( double *  &                    m_rr,
+	void DoMeanSup( double *  &                    m_rr,
 	                      double *  &                    m_gg,
                   	      double *  &                    m_bb,
 	                      int &                          numlabels,
